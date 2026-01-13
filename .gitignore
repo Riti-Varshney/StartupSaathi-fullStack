@@ -1,0 +1,22 @@
+# ENV FILES (VERY IMPORTANT)
+.env
+.env.*
+backend/.env
+frontend/.env
+
+# NODE MODULES
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# LOGS
+*.log
+
+# BUILD FILES
+dist/
+build/
+
+# OS / EDITOR
+.vscode/
+.idea/
+.DS_Store
